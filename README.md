@@ -1,5 +1,5 @@
 # roblox-gun-script-mapping
-scale = 2 / 20 -----What you want to reduce it to. Most guns, or maps, are around 20-30
+scale = 2 / 20 
 
 local representation = Instance.new("Model")
 representation.Parent = script.Parent
